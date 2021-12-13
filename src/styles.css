@@ -134,3 +134,33 @@ footer a:hover {
   width: 40%;
   margin: auto;
 }
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 30pt;
+    padding: 3px;
+  }
+
+  img {
+    width: 250px;
+    display: block;
+    text-align: center;
+    margin: 50px auto;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  .pfp {
+    display: none;
+  }
+
+  .content {
+    padding-top: 100px;
+  }
+
+  footer .email-link {
+    font-size: 20px;
+  }
+}
