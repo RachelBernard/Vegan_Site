@@ -50,6 +50,7 @@ p {
   font-family: var(--font-two);
   line-height: 25px;
   color: #00917c;
+  text-align: center;
 }
 
 button {
