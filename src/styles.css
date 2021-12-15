@@ -69,6 +69,13 @@ p {
   font-size: 17px;
 }
 
+.title {
+  text-align: center;
+  opacity: 50%;
+  font-family: var(--font-one);
+  font-size: 17px;
+}
+
 .bio {
   text-align: center;
   font-size: 17px;
@@ -191,5 +198,9 @@ video {
 
   footer .email-link {
     font-size: 20px;
+  }
+
+  video {
+    width: 300px;
   }
 }
