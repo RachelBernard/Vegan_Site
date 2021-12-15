@@ -43,6 +43,13 @@ h2 {
   font-weight: 300;
   color: #00917c;
   font-family: var(--font-one);
+  padding: 0px;
+}
+
+h4 {
+  text-align: center;
+  font-family: var(--font-two);
+  opacity: 50%;
 }
 
 p {
